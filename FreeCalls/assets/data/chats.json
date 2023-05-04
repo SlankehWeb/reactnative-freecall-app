@@ -3,12 +3,12 @@
     "id": "1",
     "user": {
       "id": "u2",
-      "name": "Lukas",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/lukas.jpeg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m1",
-      "text": "Well done this sprint, guys!",
+      "text": "random text",
       "createdAt": "2022-10-14T13:30:00.000Z"
     }
   },
@@ -16,12 +16,12 @@
     "id": "2",
     "user": {
       "id": "u3",
-      "name": "Daniil Top",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg"
+      "name": "random 2",
+      "image": "data:image/jpeg;base64,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"
     },
     "lastMessage": {
       "id": "m2",
-      "text": "How are you doing? Did you get any chance to look at what I've sent you?",
+      "text": "random text",
       "createdAt": "2022-10-14T10:48:00.000Z"
     }
   },
@@ -29,12 +29,12 @@
     "id": "3",
     "user": {
       "id": "u4",
-      "name": "Alex",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/8.png"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m3",
-      "text": "Hi, Vadim. I hope the plans for to night are still on.",
+      "text": "random text",
       "createdAt": "2022-10-13T20:48:00.000Z"
     }
   },
@@ -42,12 +42,12 @@
     "id": "4",
     "user": {
       "id": "u5",
-      "name": "Vlad",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m4",
-      "text": "Could you please review my last merge?",
+      "text": "random text",
       "createdAt": "2022-10-12T14:48:00.000Z"
     }
   },
@@ -55,12 +55,12 @@
     "id": "5",
     "user": {
       "id": "u6",
-      "name": "Elon Musk",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m5",
-      "text": "I would be happy meeting you",
+      "text": "random text",
       "createdAt": "2022-10-11T14:48:00.000Z"
     }
   },
@@ -68,12 +68,12 @@
     "id": "6",
     "user": {
       "id": "u7",
-      "name": "Adrian",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m6",
-      "text": "I think I have a solution for tha.",
+      "text": "random text",
       "createdAt": "2022-10-10T14:48:00.000Z"
     }
   },
@@ -81,12 +81,12 @@
     "id": "7",
     "user": {
       "id": "u8",
-      "name": "Borja",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m7",
-      "text": "How are you doing?",
+      "text": "random text",
       "createdAt": "2022-10-09T14:30:00.000Z"
     }
   },
@@ -94,12 +94,12 @@
     "id": "8",
     "user": {
       "id": "u9",
-      "name": "Mom",
-      "image": "https://image.shutterstock.com/image-vector/super-mom-hero-superhero-cartoon-600w-720015928.jpg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m8",
-      "text": "Dear, what did you eat, today?",
+      "text": "random text",
       "createdAt": "2020-09-27T15:40:00.000Z"
     }
   },
@@ -107,12 +107,12 @@
     "id": "9",
     "user": {
       "id": "u9",
-      "name": "Andrei",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m8",
-      "text": "What about our podcast?",
+      "text": "random text",
       "createdAt": "2020-09-27T15:40:00.000Z"
     }
   },
@@ -120,12 +120,12 @@
     "id": "10",
     "user": {
       "id": "u9",
-      "name": "Misha",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m8",
-      "text": "Do I have to send you any more details?",
+      "text": "random text",
       "createdAt": "2020-09-27T15:40:00.000Z"
     }
   },
@@ -133,12 +133,12 @@
     "id": "11",
     "user": {
       "id": "u9",
-      "name": "Alina",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png"
+      "name": "random 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Michelle_Borromeo_Actor_Headshots_30.jpg"
     },
     "lastMessage": {
       "id": "m8",
-      "text": "Here is a picture of Mark.",
+      "text": "random text",
       "createdAt": "2020-09-27T15:40:00.000Z"
     }
   }

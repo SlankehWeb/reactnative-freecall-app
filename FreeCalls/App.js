@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import ChatsScreen from "./SourceCode/screens/ChatsScreen";
+import ChatsScreen from "./SourceCode/screens/ChatScreen";
 
 export default function App() {
   return (
