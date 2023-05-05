@@ -1,10 +1,15 @@
-import { ImageBackground, StyleSheet, FlatList } from "react-native";
+import { ImageBackground, StyleSheet, FlatList, KeyboardAvoidingView } from "react-native";
 import bg from "../../assets/images/acafb3e0d487ebf412f8d118fc54b486.jpg";
 import Message from "../Components/Messages";
 import messages from "../../assets/data/messages.json";
+import InputBox from "../Components/InputBox";
 
 const ChatScreen = () => {
   return (
+    <KeyboardAvoidingView
+    behavior={Platform.OS === "ios" ? "padding" : "height"}
+    style={styles.bg}
+  >
     <ImageBackground source={bg} style={styles.bg}>
       <FlatList
         data={messages}
@@ -12,7 +17,9 @@ const ChatScreen = () => {
 				style={{ padding: 10 }}
 				inverted
       />
+      <InputBox />
     </ImageBackground>
+    </KeyboardAvoidingView>
   );
 };
 
